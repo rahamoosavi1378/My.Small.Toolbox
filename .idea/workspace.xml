@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c457d5f9-41fd-4529-8dba-7bd6e93ef7b7" name="Default Changelist" comment="03" />
+    <list default="true" id="c457d5f9-41fd-4529-8dba-7bd6e93ef7b7" name="Default Changelist" comment="05" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +52,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\my Projects\My_Small_Toolbox\tool1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +70,7 @@
       <workItem from="1606967401754" duration="6386000" />
       <workItem from="1606974462013" duration="13000" />
       <workItem from="1606974543869" duration="6000" />
-      <workItem from="1606992993966" duration="3490000" />
+      <workItem from="1606992993966" duration="3809000" />
     </task>
     <task id="LOCAL-00001" summary="02">
       <created>1606998013093</created>
@@ -81,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606999521494</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="04">
+      <created>1606999633321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606999633321</updated>
+    </task>
+    <task id="LOCAL-00004" summary="05">
+      <created>1606999811399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606999811399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +120,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="02" />
     <MESSAGE value="03" />
-    <option name="LAST_COMMIT_MESSAGE" value="03" />
+    <MESSAGE value="04" />
+    <MESSAGE value="05" />
+    <option name="LAST_COMMIT_MESSAGE" value="05" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="198" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606968523199">
