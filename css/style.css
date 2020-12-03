@@ -31,7 +31,7 @@ body {
 #toolbox {
     width: 400px;
     height: 400px;
-    background-color: crimson;
+    /*background-color: crimson;*/
     display: flex;
     /*justify-content: center;*/
     /*align-items: flex-start;*/
