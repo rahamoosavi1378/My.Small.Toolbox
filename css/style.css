@@ -13,7 +13,6 @@
 
 /* ========================== */
 body {
-
     font-family: Vazir, sans-serif;
 }
 
@@ -31,7 +30,6 @@ body {
 #toolbox {
     width: 400px;
     height: 400px;
-    /*background-color: crimson;*/
     display: flex;
     justify-content: center;
     padding: 20px;
@@ -43,12 +41,14 @@ body {
     height: 80px;
     border-radius: 50%;
     background-color: #fa7d09;
+    color: aliceblue;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
     box-shadow: 0 0 10px rgba(36, 148, 160, 1);
+    cursor: pointer;
     animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
