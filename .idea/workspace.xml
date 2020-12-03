@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c457d5f9-41fd-4529-8dba-7bd6e93ef7b7" name="Default Changelist" comment="05" />
+    <list default="true" id="c457d5f9-41fd-4529-8dba-7bd6e93ef7b7" name="Default Changelist" comment="06">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +73,8 @@
       <workItem from="1606967401754" duration="6386000" />
       <workItem from="1606974462013" duration="13000" />
       <workItem from="1606974543869" duration="6000" />
-      <workItem from="1606992993966" duration="3809000" />
+      <workItem from="1606992993966" duration="4088000" />
+      <workItem from="1607004051167" duration="532000" />
     </task>
     <task id="LOCAL-00001" summary="02">
       <created>1606998013093</created>
@@ -100,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606999811399</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="06">
+      <created>1607000117605</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607000117605</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,13 +127,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="02" />
     <MESSAGE value="03" />
     <MESSAGE value="04" />
     <MESSAGE value="05" />
-    <option name="LAST_COMMIT_MESSAGE" value="05" />
+    <MESSAGE value="06" />
+    <option name="LAST_COMMIT_MESSAGE" value="06" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="198" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606968523199">

@@ -63,7 +63,7 @@ body {
 .d2 {
     animation-name: item2;
     animation-delay: 0.5s;
-    bottom: 160px;
+    bottom: 170px;
     right: 0;
 }
 
@@ -76,7 +76,7 @@ body {
 .d4 {
     animation-name: item4;
     animation-delay: 1.5s;
-    bottom: 160px;
+    bottom: 170px;
     left: 0;
 }
 
@@ -94,13 +94,13 @@ body {
 
 @keyframes item2 {
     0% {
-        bottom: 160px;
+        bottom: 170px;
     }
     50% {
-        bottom: 140px;
+        bottom: 150px;
     }
     100% {
-        bottom: 160px;
+        bottom: 170px;
     }
 }
 
@@ -118,13 +118,13 @@ body {
 
 @keyframes item4 {
     0% {
-        bottom: 160px;
+        bottom: 170px;
     }
     50% {
-        bottom: 140px;
+        bottom: 150px;
     }
     100% {
-        bottom: 160px;
+        bottom: 170px;
     }
 }
 
