@@ -1,5 +1,5 @@
 const url_toolbox = {
-    'item 1': 'blog.html',
+    'item 1': 'tool_1/blog.html',
     'item 2': 'blog2.html',
     'item 3': 'blog3.html',
     'item 4': 'blog4.html',
