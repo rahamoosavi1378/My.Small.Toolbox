@@ -33,8 +33,7 @@ body {
     height: 400px;
     /*background-color: crimson;*/
     display: flex;
-    /*justify-content: center;*/
-    /*align-items: flex-start;*/
+    justify-content: center;
     padding: 20px;
     position: relative;
 }
@@ -44,39 +43,44 @@ body {
     height: 80px;
     border-radius: 50%;
     background-color: #fa7d09;
-    /*text-align: center;*/
+    text-align: center;
     display: flex;
-    /*justify-content: center;*/
-    /*align-items: center;*/
-    top: -10px;
+    justify-content: center;
+    align-items: center;
     position: absolute;
     box-shadow: 0 0 10px rgba(36, 148, 160, 1);
-    animation-name: item;
     animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
 
 .d1 {
+    animation-name: item1;
     animation-delay: 0s;
+    top: -10px;
 }
 
 .d2 {
+    animation-name: item2;
     animation-delay: 0.5s;
-    top: auto;
-    bottom: 10px !important;
+    bottom: 160px;
     right: 0;
 }
 
 .d3 {
+    animation-name: item3;
     animation-delay: 1s;
+    bottom: 10px;
 }
 
 .d4 {
+    animation-name: item4;
     animation-delay: 1.5s;
+    bottom: 160px;
+    left: 0;
 }
 
-@keyframes item {
+@keyframes item1 {
     0% {
         top: -10px;
     }
@@ -88,7 +92,41 @@ body {
     }
 }
 
+@keyframes item2 {
+    0% {
+        bottom: 160px;
+    }
+    50% {
+        bottom: 150px;
+    }
+    100% {
+        bottom: 160px;
+    }
+}
 
+@keyframes item3 {
+    0% {
+        bottom: 10px;
+    }
+    50% {
+        bottom: -10px;
+    }
+    100% {
+        bottom: 10px;
+    }
+}
+
+@keyframes item4 {
+    0% {
+        bottom: 160px;
+    }
+    50% {
+        bottom: 150px;
+    }
+    100% {
+        bottom: 160px;
+    }
+}
 
 
 
