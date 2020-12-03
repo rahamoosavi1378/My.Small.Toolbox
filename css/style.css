@@ -1,0 +1,111 @@
+@font-face {
+    font-family: Vazir;
+    src: url("../fonts/Vazir.ttf") format('truetype');
+}
+
+/* ========================== */
+
+*, *:after, *:before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ========================== */
+body {
+
+    font-family: Vazir, sans-serif;
+}
+
+/* ========================== */
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #74bac1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#toolbox {
+    width: 400px;
+    height: 400px;
+    background-color: crimson;
+    display: flex;
+    /*justify-content: center;*/
+    /*align-items: flex-start;*/
+    padding: 20px;
+    position: relative;
+}
+
+#toolbox div.item {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #fa7d09;
+    /*text-align: center;*/
+    display: flex;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    top: -10px;
+    position: absolute;
+    box-shadow: 0 0 10px rgba(36, 148, 160, 1);
+    animation-name: item;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.d1 {
+    animation-delay: 0s;
+}
+
+.d2 {
+    animation-delay: 0.5s;
+    top: auto;
+    bottom: 10px !important;
+    right: 0;
+}
+
+.d3 {
+    animation-delay: 1s;
+}
+
+.d4 {
+    animation-delay: 1.5s;
+}
+
+@keyframes item {
+    0% {
+        top: -10px;
+    }
+    50% {
+        top: 10px;
+    }
+    100% {
+        top: -10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
