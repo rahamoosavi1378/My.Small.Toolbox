@@ -5,8 +5,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c457d5f9-41fd-4529-8dba-7bd6e93ef7b7" name="Default Changelist" comment="07">
+    <list default="true" id="c457d5f9-41fd-4529-8dba-7bd6e93ef7b7" name="Default Changelist" comment="08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,8 @@
       <workItem from="1607004956038" duration="7000" />
       <workItem from="1607021209370" duration="845000" />
       <workItem from="1607049699447" duration="1010000" />
-      <workItem from="1607066388539" duration="53000" />
+      <workItem from="1607066388539" duration="161000" />
+      <workItem from="1607276025711" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="02">
       <created>1606998013093</created>
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607004636848</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="08">
+      <created>1607066495243</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607066495243</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +156,8 @@
     <MESSAGE value="05" />
     <MESSAGE value="06" />
     <MESSAGE value="07" />
-    <option name="LAST_COMMIT_MESSAGE" value="07" />
+    <MESSAGE value="08" />
+    <option name="LAST_COMMIT_MESSAGE" value="08" />
   </component>
   <component name="WindowStateProjectService">
     <state x="133" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607022904520">
